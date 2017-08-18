@@ -1,5 +1,5 @@
 # tos-mtf
-ThinkorSwim (ToS) indicators for handling multi-timeframe (MTF) based studies
+ThinkorSwim (ToS) studies for multi-timeframe (MTF) technical analysis
 
 This project contains the following multi-timeframe studies for use on the ThinkorSwim (ToS) platform provided by TDAmeritrade:
 
