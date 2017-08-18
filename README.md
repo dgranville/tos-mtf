@@ -17,4 +17,4 @@ To install in ToS:
 * Choose the indicator you downloaded and click open
 
 ***
-This project is not affiliated with TDAmeritrade in anyway.
+This project is not affiliated with TDAmeritrade in any way.
