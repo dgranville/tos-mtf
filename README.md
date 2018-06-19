@@ -17,4 +17,4 @@ To install in ToS:
 * Choose the indicator you downloaded and click open
 
 ***
-This project is not affiliated with TDAmeritrade in any way.
+Disclaimer: This project is not affiliated with TDAmeritrade or Think or Swim in any way. These indicators do not give buy or sell signals nor give trading advice.
